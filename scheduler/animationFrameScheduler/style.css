@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+#Circle {
+  width: 80px;
+  height: 80px;
+  background-color: red;
+  border-radius: 50%;
+}
